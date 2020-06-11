@@ -1,1 +1,5 @@
-## Some Essays On Sorting Algorithms
+## Some essays on sorting algorithms
+
+### Derivation process of quick sort
+
+
